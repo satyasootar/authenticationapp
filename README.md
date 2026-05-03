@@ -65,7 +65,12 @@ The app connects to the [FreeAPI](https://api.freeapi.app/) backend. For local d
 - `POST /users/resend-email-verification` - Token renewal
 - `PATCH /users/avatar` - Profile picture updates
 
-## 📦 Deployment
+## 📦 Screenshots
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/c059cb59-837c-44ef-b220-3de871a4578c" />
+<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/37397c64-4d2e-4cf8-aa7c-63f3af8199ad" />
+<img width="1919" height="273" alt="image" src="https://github.com/user-attachments/assets/a8235103-7556-436f-8ca7-7d3ecbeda39e" />
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/27e00d62-de35-4cc0-badf-70c77f82fec5" />
+
 
 ### Vercel (Recommended)
 The project includes a `vercel.json` file that handles:
